@@ -1,4 +1,26 @@
-# Hiring Without Whiteboards
+# Job Channels
+
+## SSO Site
+
+- [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
+
+https://www.linkedin.com/
+https://glassdoor.com
+https://www.dice.com/
+https://www.careerbuilder.com/jobs
+https://jobs.workable.com
+https://app.otta.com
+https://app.obrajobs.com/
+https://wellfound.com/jobs
+https://jooble.org/
+https://www.ziprecruiter.com/
+https://www.turing.com/remote-developer-jobs
+https://www.monster.com/jobs
+https://pangian.com/
+https://www.useparallel.com/app/candidate/collections/
+https://www.squarepeghires.com/jobs/
+https://app.swooped.co/
+https://talent.aquent.com/
 
 A list of companies (or teams) that don't do "whiteboard" interviews. "Whiteboards" is used as a metaphor, and is a _symbol_ for the kinds of CS trivia questions that are associated with bad interview practices. Whiteboards are not bad – CS trivia questions are. Using sites like HackerRank/LeetCode _probably_ fall into a similar category.
 
