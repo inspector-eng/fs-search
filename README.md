@@ -1,12 +1,12 @@
 # Job Channels
 
 ## View Site
-- [Google Search] (https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
+- [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
 
 ## SSO Site
 
 
-- [LinkedIn] (https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/)
 https://glassdoor.com
 https://www.dice.com/
 https://www.careerbuilder.com/jobs
