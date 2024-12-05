@@ -11,7 +11,7 @@
 - [Glassdoor - software engineer](https://www.glassdoor.com/Job/remote-software-engineer-jobs-SRCH_IL.0,6_IS11047_KO7,24.htm?applicationType=1&remoteWorkType=1&fromAge=7)
 - **[Dice - profile](https://www.dice.com/dashboard/profiles)**
 - [Dice - full stack](https://www.dice.com/jobs?q=full%20stack&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.workplaceTypes=Remote&filters.easyApply=true&language=en)
-- **{Wellfound - profile}(https://wellfound.com/profile/edit/overview)**
+- **[Wellfound - profile](https://wellfound.com/profile/edit/overview)**
 - [Wellfound - jobs](https://wellfound.com/jobs)
 ## View Site
 - [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
