@@ -9,13 +9,18 @@
 - **[Glassdoor - profile](https://www.glassdoor.com/member/profile/emailSettings)**
 - [Glassdoor - full stack](https://www.glassdoor.com/Job/remote-us-full-stack-jobs-SRCH_IL.0,9_IS11047_KO10,20.htm?applicationType=1&remoteWorkType=1&fromAge=3)
 - [Glassdoor - software engineer](https://www.glassdoor.com/Job/remote-software-engineer-jobs-SRCH_IL.0,6_IS11047_KO7,24.htm?applicationType=1&remoteWorkType=1&fromAge=7)
+- **[Dice - profile](https://www.dice.com/dashboard/profiles)**
+- [Dice - full stack](https://www.dice.com/jobs?q=full%20stack&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.workplaceTypes=Remote&filters.easyApply=true&language=en)
+- **{Wellfound - profile}(https://wellfound.com/profile/edit/overview)**
+- [Wellfound - jobs](https://wellfound.com/jobs)
 ## View Site
 - [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
 - [BambooHR](https://www.bamboohr.com/careers/#explore-all-bamboohr-jobs)
+- [Adthena](https://www.adthena.com/company/careers/)
 ## SSO site with Profile
 - [Dice](https://www.dice.com/dashboard/profiles)
 - [Otta](https://app.otta.com)
-### Catch
+## Catch up later
 - [Wellfound](https://wellfound.com/jobs)
 https://jooble.org/
 https://www.ziprecruiter.com/
@@ -86,7 +91,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [AdEx Network](https://www.adex.network) | Sofia, Bulgaria / Remote | Email screening process, followed by a take-home assignment
 - [Admiral](https://getadmiral.com) | Gainesville, FL / Remote | Intro phone call with hiring manager, take-home assignment, (mostly) non-technical on-site with team/leadership
 - [Adnymics](https://adnymics.com) | Munich, DE | Take home project, then work with the team for a day
-- [Adthena](https://adthena.com) | London, UK | Takehome project and discussion on-site
 - [Adyen](https://www.adyen.com) | Amsterdam, NL | Take-home assignment, design discussion based on take home, culture fit etc. Provides visa sponsorship to the Netherlands.
 - [Affinipay](https://www.affinipay.com) | Austin, TX | Short takehome project + video interview about coding with engineering manager
 - [Agency Enterprise Studio](https://ae.studio) | Remote / Los Angeles, CA / Florianópolis, Brazil | Live coding of a task you'd do daily
