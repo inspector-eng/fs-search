@@ -8,22 +8,19 @@
 - [CareerBuilder - software engineer](https://www.careerbuilder.com/jobs?company_request=false&company_name=&company_id=&posted=&pay=&radius=30&emp=&cb_apply=true&cb_workhome=remote&keywords=Software+Engineer)
 - **[Glassdoor - profile](https://www.glassdoor.com/member/profile/emailSettings)**
 - [Glassdoor - full stack](https://www.glassdoor.com/Job/remote-us-full-stack-jobs-SRCH_IL.0,9_IS11047_KO10,20.htm?applicationType=1&remoteWorkType=1&fromAge=3)
-- -[Glassdoor - software engineer](https://www.glassdoor.com/Job/remote-software-engineer-jobs-SRCH_IL.0,6_IS11047_KO7,24.htm?applicationType=1&remoteWorkType=1&fromAge=7)
+- [Glassdoor - software engineer](https://www.glassdoor.com/Job/remote-software-engineer-jobs-SRCH_IL.0,6_IS11047_KO7,24.htm?applicationType=1&remoteWorkType=1&fromAge=7)
 ## View Site
 - [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
 - [BambooHR](https://www.bamboohr.com/careers/#explore-all-bamboohr-jobs)
-
 ## SSO site with Profile
+- [Dice](https://www.dice.com/)
+- [Otta](https://app.otta.com)
 
 
 
+- [Wellfound](https://wellfound.com/jobs)
 
-https://www.dice.com/
 
-
-https://app.otta.com
-https://app.obrajobs.com/
-https://wellfound.com/jobs
 https://jooble.org/
 https://www.ziprecruiter.com/
 https://www.turing.com/remote-developer-jobs
@@ -33,6 +30,7 @@ https://www.useparallel.com/app/candidate/collections/
 https://www.squarepeghires.com/jobs/
 https://app.swooped.co/
 https://talent.aquent.com/
+- [Obra](https://app.obrajobs.com/)
 
 A list of companies (or teams) that don't do "whiteboard" interviews. "Whiteboards" is used as a metaphor, and is a _symbol_ for the kinds of CS trivia questions that are associated with bad interview practices. Whiteboards are not bad – CS trivia questions are. Using sites like HackerRank/LeetCode _probably_ fall into a similar category.
 
