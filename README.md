@@ -13,14 +13,10 @@
 - [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
 - [BambooHR](https://www.bamboohr.com/careers/#explore-all-bamboohr-jobs)
 ## SSO site with Profile
-- [Dice](https://www.dice.com/)
+- [Dice](https://www.dice.com/dashboard/profiles)
 - [Otta](https://app.otta.com)
-
-
-
+### Catch
 - [Wellfound](https://wellfound.com/jobs)
-
-
 https://jooble.org/
 https://www.ziprecruiter.com/
 https://www.turing.com/remote-developer-jobs
